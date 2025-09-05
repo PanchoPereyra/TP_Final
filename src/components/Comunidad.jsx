@@ -1,12 +1,11 @@
-
 function Comunidad() {
     return (
         <>
             {/* SACAR LOS BORDES DESPUES */}
-            <section className="bg-orange-50 px-26 py-26 border-4 ">
-                <div className="max-w-7xl px-5 py-5 border-2">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center border-red-500 border-2">
-                        <div className="border-green-500 border-2">
+            <section className="bg-orange-50 px-26 py-26 ">
+                <div className="max-w-7xl px-5 py-5">
+                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-center border-red-500">
+                        <div className="col-span-2">
                             <h2 className="text-4xl font-bold text-gray-900 mb-6">
                                 Support Your<br />Community
                             </h2>
@@ -18,7 +17,7 @@ function Comunidad() {
                             </p>
 
                             {/* IMAGEN VACUNA */}
-                            <div className="grid grid-cols-2 gap-4 border-blue-500 border-2">
+                            <div className="grid grid-cols-2 gap-4">
                                 <div className="space-y-2">
                                     <img
                                         src="/src/imagenes/vacuna.jpg"
@@ -41,14 +40,26 @@ function Comunidad() {
                         </div>
 
                         {/* IMAGEN BOTELLA */}
-                        <div className="relative w-3/5 h-9/10 border-4">
+                        {/* <div className="relative w-3/5 h-9/10">
                             <img
                                 src="/src/imagenes/agua.jpg"
                                 alt="Safe Water"
-                                className="w-full h-full object-cover bg-center border-4 "
+                                className="w-full h-full object-cover bg-center "
                             />
                             <h3 className="font-semibold">Safe Water</h3>
                             <a href="#" className=" ">View All Campaign</a>
+                        </div> */}
+
+                        <div className="w-full h-full">
+                            <div className="bg-white w-full h-5/6">
+                                <img src="/src/imagenes/agua.jpg" alt=""
+                                    className="w-full h-5/6 object-cover"
+                                />
+                                <h3 className="font-semibold p-5 text-left">Safe Water</h3>
+                            </div>
+                            <div className="mt-6">
+                                <a href="#" className="underline">View All Campaign</a>
+                            </div>
                         </div>
 
                     </div>

@@ -20,20 +20,24 @@ function App() {
 
   return (
     <>
-    
-        {/* <Header /> */}
-        <HeaderCompleto/>
-        {/* <Hero/> */}
-        
-        <Datos/>
-        <Comunidad/>
-        
 
-        <OurTeam/>
-        <Testimonial/>
-        <CTA/>
-        <Footer />
-    
+      {/* <Header /> */}
+      <HeaderCompleto />
+      {/* <Hero/> */}
+
+      <div className="bg-orange-50">
+        <Datos />
+        <Comunidad />
+
+
+        <OurTeam />
+        <Testimonial />
+        <CTA />
+
+      </div>
+
+      <Footer />
+
     </>
   )
 }
