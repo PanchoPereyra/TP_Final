@@ -6,8 +6,8 @@ function Footer() {
                 <div className="max-w-7xl mx-auto">
                     <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                         <div>
-                            <h3 className="font-semibold text-gray-900 mb-4">Newsletter</h3>
-                            <p className="text-gray-600 text-sm mb-4">
+                            <h3 className="font-semibold text-gray-900 mb-4 font-fraunces text-justify">Newsletter</h3>
+                            <p className="text-gray-600 text-sm mb-4 text-justify">
                                 Subscribe to our newsletter to get future information.
                             </p>
                             <div className="flex">
@@ -23,7 +23,7 @@ function Footer() {
                         </div>
 
                         <div>
-                            <h3 className="font-semibold text-gray-900 mb-4">Navigation</h3>
+                            <h3 className="font-semibold text-gray-900 mb-4 font-fraunces">Navigation</h3>
                             <ul className="space-y-2 text-gray-600 text-sm">
                                 <li><a href="#" className="hover:text-gray-900">Home</a></li>
                                 <li><a href="#" className="hover:text-gray-900">Community</a></li>
@@ -33,7 +33,7 @@ function Footer() {
                         </div>
 
                         <div>
-                            <h3 className="font-semibold text-gray-900 mb-4">About Us</h3>
+                            <h3 className="font-semibold text-gray-900 mb-4 font-fraunces">About Us</h3>
                             <ul className="space-y-2 text-gray-600 text-sm">
                                 <li><a href="#" className="hover:text-gray-900">Partners</a></li>
                                 <li><a href="#" className="hover:text-gray-900">Careers</a></li>
@@ -43,7 +43,7 @@ function Footer() {
                         </div>
 
                         <div>
-                            <h3 className="font-semibold text-gray-900 mb-4">Help</h3>
+                            <h3 className="font-semibold text-gray-900 mb-4 font-fraunces">Help</h3>
                             <ul className="space-y-2 text-gray-600 text-sm">
                                 <li><a href="#" className="hover:text-gray-900">FAQ</a></li>
                                 <li><a href="#" className="hover:text-gray-900">Contact us</a></li>

@@ -6,11 +6,12 @@ function Comunidad() {
                 <div className="max-w-7xl px-5 py-5">
                     <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 items-center border-red-500">
                         <div className="col-span-2">
-                            <h2 className="text-4xl font-bold text-gray-900 mb-6">
+                            <h2 className="text-5xl font-fraunces font-bold text-gray-900 mb-6 text-justify">
                                 Support Your<br />Community
                             </h2>
+                             <hr className="border-gray-300 w-[25%] border-t-3 mt-6" ></hr>
 
-                            <p className="text-gray-600 mb-8 max-w-md">
+                            <p className="text-gray-600 mb-8 max-w-md text-justify mt-6">
                                 The target definition of a charity organization
                                 ahead of charity causes fundraising sustainable and to
                                 achieve them effectively and innovatively.

@@ -1,25 +1,6 @@
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 
-//                     {/* BOTONES */}
-//                     <div className="flex justify-center space-x-4 mt-6">
-//                         {/* IZQUIERDA */}
-//                         <button className="p-3 rounded-full hover:bg-gray-200 transition">
-//                             <ChevronLeft className="w-6 h-6 text-gray-700" />
-//                         </button>
-//                         {/* DERECHA */}
-//                         <button className="p-3 rounded-full bg-yellow-300 hover:bg-yellow-400 transition shadow">
-//                             <ChevronRight className="w-6 h-6 text-gray-700" />
-//                         </button>
-//                     </div>
-
-//                 </div>
-//             </section >
-//         </>
-//     )
-// }
-
-
 function Testimonial() {
     return (
         <>
@@ -49,7 +30,7 @@ function Testimonial() {
                             ullam est, non recusandae. Facilis, voluptas dolorum adipisci ullam
                             impedit culpa tempore?
                         </p>
-                        <h3 className="mt-6 font-semibold text-2xl">Mustafa Kamal</h3>
+                        <h3 className="mt-6 font-semibold text-2xl font-fraunces">Mustafa Kamal</h3>
                         <small>CEO, Toggle</small>
                     </div>
                 </div>

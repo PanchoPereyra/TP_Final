@@ -1,17 +1,17 @@
 function Datos() {
     return (
         <>
-            <section className="bg-teal-600 px-6 py-12">
-                <div className="max-w-7xl mx-auto grid grid-cols-2 lg:grid-cols-8 gap-8 text-center ">
+            <section className="bg-teal-600 px-15 py-12">
+                <div className="max-w-7xl mx-5 grid grid-cols-2 lg:grid-cols-8 gap-4 text-center ">
                     {/* flex justify-between */}
 
-                    <div className="border-2">
+                    <div className="">
                         <img src="/src/imagenes/corazon.png"
                             alt=""
                             className="w-20 h-20  bg-center"
                         />
                     </div>
-                    <div className="text-black border-2">
+                    <div className="text-black">
                         <div className="text-3xl font-bold">985+</div>
                         <div className="text-sm opacity-90">Donation Received</div>
                     </div>

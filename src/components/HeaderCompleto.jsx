@@ -5,10 +5,10 @@ function HeaderCompleto() {
 
                 {/* LADO IZQUIERDO */}
                 <div className="bg-[#fdf9f2] flex flex-col justify-center px-10">
-                    <h1 className="text-5xl font-bold text-gray-900 leading-tight">
+                    <h1 className="text-7xl font-fraunces font-bold text-justify text-gray-900 leading-tight">
                         Charity Is An <br /> Act Of A Soft <br /> Heart.
                     </h1>
-                    <p className="mt-6 text-gray-600 max-w-md">
+                    <p className="mt-6 text-gray-600 max-w-md text-justify font-Fraunces">
                         We’ve spent the last 5 years helping over 25,0000 teams just like yourself create and sustain
                     </p>
 
@@ -28,7 +28,7 @@ function HeaderCompleto() {
                                             d="M50,50 m-40,0 a40,40 0 1,1 80,0 a40,40 0 1,1 -80,0"
                                         />
                                     </defs>
-                                    <text className="text-[10px] font-medium fill-black tracking-wider ">
+                                    <text className="text-[10px] font-medium fill-black tracking-widest">
                                         <textPath href="#circlePath" startOffset="50%" textAnchor="middle">
                                             Learn about us through this video
                                         </textPath>
@@ -44,10 +44,10 @@ function HeaderCompleto() {
 
                         
                         {/* REDES SOCIALES */}
-                        <div className="flex space-x-8 pt-8">
-                            <a href="#" className="text-gray-900 hover:text-gray-700">Youtube</a>
-                            <a href="#" className="text-gray-900 hover:text-gray-700">Facebook</a>
-                            <a href="#" className="text-gray-900 hover:text-gray-700">Instagram</a>
+                        <div className="space-x-15 pt-8 flex-justify-center">
+                            <a href="#" className="text-gray-900 hover:text-gray-700 font-medium">Youtube</a><span>·</span>
+                            <a href="#" className="text-gray-900 hover:text-gray-700 font-medium">Facebook</a><span>·</span>
+                            <a href="#" className="text-gray-900 hover:text-gray-700 font-medium">Instagram</a><span>·</span>
                         </div>
 
                 </div>
@@ -57,7 +57,7 @@ function HeaderCompleto() {
                 <div className="bg-yellow-400 flex flex-col">
 
                     {/* MENÚ */}
-                    <nav className="flex justify-end space-x-8 p-6 text-gray-900 font-medium">
+                    <nav className="flex justify-center space-x-8 p-6 text-gray-900 font-bold">
                         <a href="#">About Us</a>
                         <span>·</span>
                         <a href="#">Campaign</a>

@@ -10,7 +10,7 @@ function Hero() {
                         <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                             Charity Is An<br />
                             Act Of A Soft<br />
-                            Heart.
+                            Heart!.
                         </h1>
                         <p className="text-gray-700 text-lg max-w-md">
                             We spread the love 3 years helping over 25,00000
@@ -18,7 +18,7 @@ function Hero() {
                         </p>
                         <div className="max-w-4xl mx-auto flex items-center gap-12">
                             <button className="bg-green-700 text-white font-semibold px-8 py-4 rounded-md hover:bg-green-800 transition">
-                                Donate Now
+                                Donate Now!
                             </button>
 
                             {/* Círculo con texto */}

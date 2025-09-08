@@ -12,11 +12,12 @@ import OurTeam from './components/OurTeam'
 import Testimonial from './components/Testimonial'
 import CTA from './components/CTA'
 import HeaderCompleto from './components/HeaderCompleto'
+import AboutUs from './components/AboutUs'
 
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
@@ -28,7 +29,7 @@ function App() {
       <div className="bg-orange-50">
         <Datos />
         <Comunidad />
-
+        <AboutUs />
 
         <OurTeam />
         <Testimonial />

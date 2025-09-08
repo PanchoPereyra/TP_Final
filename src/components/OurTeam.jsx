@@ -5,7 +5,7 @@ function OurTeam() {
 
                 <div className="max-w-6xl mx-auto text-center">
 
-                    <h2 className="text-3xl font-bold text-gray-800">Our Team</h2>
+                    <h2 className="text-5xl font-bold text-gray-800 font-fraunces">Our Team</h2>
                     <div className="w-16 h-0.5 bg-gray-400 mx-auto my-3"></div>
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 mt-12">
 
@@ -19,7 +19,7 @@ function OurTeam() {
                                     className="relative w-full h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
                             </div>
-                            <h3 className="mt-6 text-lg font-semibold text-gray-800">Lily Gomez</h3>
+                            <h3 className="mt-6 text-lg font-semibold text-gray-800  font-fraunces">Lily Gomez</h3>
                             <p className="text-gray-500 text-sm">Founder</p>
                         </div>
 
@@ -33,7 +33,7 @@ function OurTeam() {
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
                             </div>
-                            <h3 className="mt-6 text-lg font-semibold text-gray-800">Dm Lincoln</h3>
+                            <h3 className="mt-6 text-lg font-semibold text-gray-800  font-fraunces">Dm Lincoln</h3>
                             <p className="text-gray-500 text-sm">Co-Founder</p>
                         </div>
 
@@ -47,7 +47,7 @@ function OurTeam() {
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
                             </div>
-                            <h3 className="mt-6 text-lg font-semibold text-gray-800">Serena Mei</h3>
+                            <h3 className="mt-6 text-lg font-semibold text-gray-800 font-fraunces  font-fraunces">Serena Mei</h3>
                             <p className="text-gray-500 text-sm">Manager</p>
                         </div>
 
@@ -61,7 +61,7 @@ function OurTeam() {
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
                             </div>
-                            <h3 className="mt-6 text-lg font-semibold text-gray-800">Abdel Latif</h3>
+                            <h3 className="mt-6 text-lg font-semibold text-gray-800  font-fraunces">Abdel Latif</h3>
                             <p className="text-gray-500 text-sm">Supervisor</p>
                         </div>
 
