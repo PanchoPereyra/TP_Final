@@ -1,4 +1,4 @@
-function CTA() {
+function HelpOther() {
     return (
         <>
             <section className="bg-teal-600 px-8 py-15">
@@ -21,4 +21,4 @@ function CTA() {
     )
 }
 
-export default CTA
+export default HelpOther

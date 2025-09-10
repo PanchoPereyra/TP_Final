@@ -14,7 +14,7 @@ function HeaderCompleto() {
 
                         <div className="max-w-4xl mx-auto flex items-center gap-12">
                             <button className="bg-green-700 text-white font-semibold px-8 py-4 rounded-md hover:bg-green-800 transition">
-                                Doná ahora
+                                Donate Now
                             </button>
 
                             {/* CIRCULO CON TEXTO */}
