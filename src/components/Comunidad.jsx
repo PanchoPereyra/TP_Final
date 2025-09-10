@@ -21,7 +21,7 @@ function Comunidad() {
                             <div className="grid grid-cols-2 gap-4">
                                 <div className="space-y-2">
                                     <img
-                                        src="/imagenes/voluntarios.jpg/vacuna.jpg"
+                                        src="/imagenes/vacuna.jpg"
                                         alt="Covid"
                                         className="w-64 h-64 object-cover bg-center"
                                     />
@@ -39,17 +39,6 @@ function Comunidad() {
                                 </div>
                             </div>
                         </div>
-
-                        {/* IMAGEN BOTELLA */}
-                        {/* <div className="relative w-3/5 h-9/10">
-                            <img
-                                src="/src/imagenes/agua.jpg"
-                                alt="Safe Water"
-                                className="w-full h-full object-cover bg-center "
-                            />
-                            <h3 className="font-semibold">Safe Water</h3>
-                            <a href="#" className=" ">View All Campaign</a>
-                        </div> */}
 
                         <div className="w-full h-full">
                             <div className="bg-white w-full h-5/6">
