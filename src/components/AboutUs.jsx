@@ -3,8 +3,8 @@ function AboutUs() {
     return (
         <>
             <section className="bg-orange-50 px-6 py-16">
-                <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-                    <div className="">
+                <div className="flex max-w-7xl mx-auto items-center">
+                    <div className="relative">
 
                         {/* IMAGEN*/}
                         <img
@@ -14,16 +14,16 @@ function AboutUs() {
                         />
                     </div>
 
-                    <div className="bg-white pl-3 pt-8 pr-8 text-justify w-3/4">
-                        <h2 className="text-5xl text-gray-900 font-fraunces text-justify">About Us</h2>
-                        <hr className="border-gray-300 w-[25%] border-t-3 mt-2" ></hr>
-                        <p className="text-gray-600 text-justify pt-8 pr- pb-8">
+                    <div className="bg-white pl-3 pt-8 pr-8 text-justify w-3/4 mr-30">
+                        <h2 className="text-5xl text-gray-900 font-fraunces text-justify ml-30">About Us</h2>
+                        <hr className="border-gray-300 w-[25%] border-t-3 mt-2 ml-25" ></hr>
+                        <p className="text-gray-600 text-justify ml-25 pt-5 pb-8 pr-20">
                             The target definition of a charity organization ahead of
                             charity causes fundraising sustainable and to achieve them
                             effectively and innovatively. Helped fund 24,537 projects
                             in 17 countries, benefiting over 8.2 million people.
                         </p>
-                        <button className="font-bold text-justify underline">
+                        <button className="font-bold text-justify underline ml-25 pb-5">
                             Read More
                         </button>
                     </div>
@@ -35,3 +35,4 @@ function AboutUs() {
 }
 
 export default AboutUs
+
