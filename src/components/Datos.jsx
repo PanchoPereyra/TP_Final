@@ -6,7 +6,7 @@ function Datos() {
                     {/* flex justify-between */}
 
                     <div className="">
-                        <img src="/src/imagenes/corazon.png"
+                        <img src="/imagenes/corazon.png"
                             alt=""
                             className="w-20 h-20  bg-center"
                         />
@@ -17,7 +17,7 @@ function Datos() {
                     </div>
 
                     <div>
-                        <img src="/src/imagenes/caja-abierta-con-dos-corazones.png"
+                        <img src="/imagenes/caja-abierta-con-dos-corazones.png"
                             alt=""
                             className="w-20 h-20  bg-center"
                         />
@@ -28,7 +28,7 @@ function Datos() {
                     </div>
 
                     <div>
-                        <img src="/src/imagenes/corazon+altavoz.png"
+                        <img src="/imagenes/corazon+altavoz.png"
                             alt=""
                             className="w-20 h-20  bg-center"
                         />
@@ -39,7 +39,7 @@ function Datos() {
                     </div>
 
                     <div>
-                        <img src="/src/imagenes/simbolo-de-la-paz.png"
+                        <img src="/imagenes/simbolo-de-la-paz.png"
                             alt=""
                             className="w-20 h-20  bg-center"
                         />

@@ -9,7 +9,7 @@ function Testimonial() {
                 <div className="relative">
                     {/* IMAGEN*/}
                     <img
-                        src="/src/imagenes/mustafa_fondo_amarillo.png"
+                        src="/imagenes/mustafa_fondo_amarillo.png"
                         alt="Mustafa Kamal"
                         className="absolute z-1 top-0 left-0 w-1/2 min-h-[420px] object-cover rounded-b-full"
                     />

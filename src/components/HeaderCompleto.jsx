@@ -67,7 +67,7 @@ function HeaderCompleto() {
                     <div className="relative w-full h-full">
                         <img
                             // src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                            src="/src/imagenes/1.jpg"
+                            src="/imagenes/1.jpg"
                             alt="Children playing"
                             className="w-lg h-full object-cover"
                         />

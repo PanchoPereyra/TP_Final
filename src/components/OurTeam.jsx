@@ -14,7 +14,7 @@ function OurTeam() {
                             <div className="relative w-36 h-36 mx-auto borde">
                                 <div className="absolute inset-0 rounded-full bg-yellow-400 opacity-80"></div>
                                 <img
-                                    src="/src/imagenes/Lily.png"
+                                    src="/imagenes/Lily.png"
                                     alt="Lily Gomez"
                                     className="relative w-full h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
@@ -28,7 +28,7 @@ function OurTeam() {
                             <div className="relative w-36 h-36 mx-auto">
                                 <div className="absolute inset-0 rounded-full bg-green-700 opacity-80"></div>
                                 <img
-                                    src="/src/imagenes/dm_uno.jpg"
+                                    src="/imagenes/dm_uno.jpg"
                                     alt="Dm Lincoln"
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
@@ -42,12 +42,12 @@ function OurTeam() {
                             <div className="relative w-36 h-36 mx-auto">
                                 <div className="absolute inset-0 rounded-full bg-yellow-400 opacity-80"></div>
                                 <img
-                                    src="/src/imagenes/Serena.jpg"
+                                    src="/imagenes/Serena.jpg"
                                     alt="Serena Mei"
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />
                             </div>
-                            <h3 className="mt-6 text-lg font-semibold text-gray-800 font-fraunces  font-fraunces">Serena Mei</h3>
+                            <h3 className="mt-6 text-lg font-semibold text-gray-800 font-fraunces">Serena Mei</h3>
                             <p className="text-gray-500 text-sm">Manager</p>
                         </div>
 
@@ -56,7 +56,7 @@ function OurTeam() {
                             <div className="relative w-36 h-36 mx-auto">
                                 <div className="absolute inset-0 rounded-full bg-green-700 opacity-80"></div>
                                 <img
-                                    src="/src/imagenes/abdel_1.jpg"
+                                    src="/imagenes/abdel_1.jpg"
                                     alt="Abdel Latif"
                                     className="relative w-36 h-36 rounded-full object-cover border-4 border-white shadow-lg"
                                 />

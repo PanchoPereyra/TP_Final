@@ -8,7 +8,7 @@ function AboutUs() {
 
                         {/* IMAGEN*/}
                         <img
-                            src="/src/imagenes/voluntarios.jpg"
+                            src="/imagenes/voluntarios.jpg"
                             alt="Mustafa Kamal"
                             className="ml-25 z-1 top-0 left-0 w-80 min-h-[420px] object-cover rounded-b-full"
                         />
