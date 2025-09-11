@@ -10,15 +10,15 @@
 
 ## 💻 Secciones del Sitio
 
-### 1- Header.
-### 2- Hero.
-### 3- Datos.
-### 4- Comunidad.
-### 5- About Us.
-### 6- Our Team.
-### 7- Testimonial.
-### 8- Help Other.
-### 9- Footer.
+1- Header.
+2- Hero.
+3- Datos.
+4- Comunidad.
+5- About Us.
+6- Our Team.
+7- Testimonial.
+8- Help Other.
+9- Footer.
 
 ## 📁 Secciones del Sitio
 src
@@ -39,5 +39,5 @@ src
 
 ## 📌 Tecnologías Utilizadas
 
-- **Para la realización del trabajo se utilizó React con Vite y para darle estilo se utilizó Tailwind CSS**
+**Para la realización del trabajo se utilizó React con Vite y para darle estilo se utilizó Tailwind CSS**
 
