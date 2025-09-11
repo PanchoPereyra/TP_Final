@@ -10,15 +10,15 @@
 
 ## 💻 Secciones del Sitio
 
-1- Header.
-2- Hero.
-3- Datos.
-4- Comunidad.
-5- About Us.
-6- Our Team.
-7- Testimonial.
-8- Help Other.
-9- Footer.
+1- Header. <br>
+2- Hero.    <br>
+3- Datos. <br>
+4- Comunidad. <br>
+5- About Us. <br>
+6- Our Team. <br>
+7- Testimonial. <br>
+8- Help Other. <br>
+9- Footer. <br>
 
 ## 📁 Secciones del Sitio
 src
