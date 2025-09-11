@@ -1,7 +1,9 @@
 # TP Final - Curso Full Stack
 
-El objetivo del trabajo práctico final es hacer una página web que replicara identicamente a la imagen que se adjunto en la consigna.
-En la implementacióm se trato de obtener las mismas imágenes, íconos, colores y fuentes, algunos cosas se pudieron obtener, otras no, en esos casos se intento que sean los mas similar posible.
+>[!NOTE]
+>El objetivo del trabajo práctico final es hacer una página web que replicara identicamente a la imagen que se adjunto en la consigna.
+>En la implementacióm se trato de obtener las mismas imágenes, íconos, colores y fuentes, algunos cosas se pudieron obtener, otras no, en esos casos se intento que >sean los mas similar posible.
+
 ## 🌐 Link de la página donde se encuentra el proyecto: http://practicofinalcursofullstack.netlify.app/
 
 ![Imagen proyecto](https://github.com/PanchoPereyra/TP_Final/blob/main/public/imagenes/Imagen_proyecto_completo.png)
@@ -33,6 +35,7 @@ src
  ┣ App.jsx
  ┣ index.css
  ┗ main.jsx
+
 
 ## 📌 Tecnologías Utilizadas
 
