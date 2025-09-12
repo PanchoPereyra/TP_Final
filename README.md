@@ -11,7 +11,7 @@
 ## 💻 Secciones del Sitio
 
 1- Header. <br>
-2- Hero.    <br>
+2- Hero.  <br>
 3- Datos. <br>
 4- Comunidad. <br>
 5- About Us. <br>
@@ -22,19 +22,46 @@
 
 ## 📁 Secciones del Sitio
 src
- ┣ components
- ┃ ┣ AboutUs.jsx
- ┃ ┣ Comunidad.jsx
- ┃ ┣ Datos.jsx
- ┃ ┣ Footer.jsx
- ┃ ┣ HeaderCompleto.jsx
- ┃ ┣ HelpOther.jsx
- ┃ ┣ OurTeam.jsx
- ┃ ┗ Testimonial.jsx
- ┣ App.css
- ┣ App.jsx
- ┣ index.css
- ┗ main.jsx
+ ┣ components<br>
+ ┃ ┣ AboutUs.jsx<br>
+ ┃ ┣ Comunidad.jsx<br> 
+ ┃ ┣ Datos.jsx<br>
+ ┃ ┣ Footer.jsx<br>
+ ┃ ┣ HeaderCompleto.jsx<br>
+ ┃ ┣ HelpOther.jsx<br>
+ ┃ ┣ OurTeam.jsx<br>
+ ┃ ┗ Testimonial.jsx<br>
+ ┣ App.css<br>
+ ┣ App.jsx<br>
+ ┣ index.css<br>
+ ┗ main.jsx<br>
+
+ TP_Final/
+├── node_modules/           # Dependencias del proyecto
+├── public/                 # Archivos públicos estáticos
+├── src/                    # Código fuente de la aplicación
+│   ├── components/         # Componentes React reutilizables
+│   │   ├── AboutUs.jsx     # Componente "Acerca de nosotros"
+│   │   ├── Comunidad.jsx   # Componente de comunidad
+│   │   ├── Datos.jsx       # Componente de datos/estadísticas
+│   │   ├── Footer.jsx      # Pie de página
+│   │   ├── HeaderCompleto.jsx # Cabecera completa
+│   │   ├── HelpOther.jsx   # Componente de ayuda
+│   │   ├── OurTeam.jsx     # Componente del equipo
+│   │   └── Testimonial.jsx # Componente de testimonios
+│   ├── App.css            # Estilos principales de la aplicación
+│   ├── App.jsx            # Componente principal de la aplicación
+│   ├── index.css          # Estilos globales
+│   └── main.jsx           # Punto de entrada de la aplicación
+├── .gitignore             # Archivos ignorados por Git
+├── eslint.config.js       # Configuración de ESLint
+├── image.png              # Imagen del proyecto
+├── index.html             # Plantilla HTML principal
+├── package-lock.json      # Bloqueo de dependencias
+├── package.json           # Configuración y dependencias del proyecto
+├── README.md              # Documentación del proyecto
+├── tailwind.config.js     # Configuración de Tailwind CSS
+└── vite.config.js         # Configuración de Vite
 
 
 ## 📌 Tecnologías Utilizadas
